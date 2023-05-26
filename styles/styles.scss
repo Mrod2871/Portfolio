@@ -73,7 +73,7 @@ section {
     background-color: var(--color-primary);
 }
 
-
+//Transition between active sections
 .active {
     display: block;
     animation: appear 1s ease-in-out;
